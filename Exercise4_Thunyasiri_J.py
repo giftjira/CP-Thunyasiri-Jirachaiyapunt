@@ -1,8 +1,9 @@
-<!Doctype html>
-<html lang="en"> 
-    <head>
-        <title> <Exercise4_Thunyasiri_J class="py"></Exercise4_Thunyasiri_J> </title>
-    </head>
-    <body>
-        
-    </body>
+English = 85.5
+Business = 90
+Computer = 89.5
+Programming = 91.5
+print('---Your Score---')
+print('Foundation English : ',English)
+print('General Business : ',Business)
+print('Introduction to Computer Systems : ',Computer)
+print('Computer Programming : ',Programming)
